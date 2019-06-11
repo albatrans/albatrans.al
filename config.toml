@@ -4,7 +4,7 @@ title = "AlbaTrans sh.p.k."
 theme = "albatrans-theme"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-141803043-1"
 
   [params.homepage_meta_tags]
     meta_description = "AlbaTrans offers some of the most versatile and efficient transport services for its passengers."
