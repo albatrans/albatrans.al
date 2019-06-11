@@ -1,0 +1,38 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "AlbaTrans sh.p.k."
+theme = "albatrans-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "AlbaTrans offers some of the most versatile and efficient transport services for its passengers."
+    meta_og_title = "AlbaTrans sh.p.k."
+    meta_og_type = "website"
+    meta_og_url = "http://albatrans.al"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "AlbaTrans offers some of the most versatile and efficient transport services for its passengers."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@infotourist"
+    meta_twitter_creator = "@oerd"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 2
+
+[[menu.main]]
+	name = "Testimonials"
+	url = "/testimonials/"
+	weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
