@@ -1,12 +1,11 @@
 ---
-title: 'Lion Creative'
-date: 2018-11-28T15:05:36+10:00
-draft: false
+title: Reference SHEGA-TRANS Sh.A
+date: 2018-11-28T05:05:36.000+00:00
 image: ''
 businessurl: ''
-name: 'Jessica Lion'
-business: 'Lion Creative'
-jobtitle: 'Creative Director'
----
+name: Kostandin Foni
+business: SHEGA-TRANS Transporti Urban
+jobtitle: Director
 
-> Sales bandwidth business model canvas android infographic leverage prototype traction buzz. Founders stock startup incubator gamification series A financing churn rate gen-z ecosystem bootstrapping branding. Interaction design partnership technology. Hackathon infrastructure bandwidth bootstrapping.
+---
+Under Construction!
