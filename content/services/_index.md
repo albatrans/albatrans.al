@@ -1,8 +1,8 @@
 ---
-title: 'Services'
-date: 2018-02-10T11:52:18+07:00
+title: Services
+date: 2018-02-10T04:52:18.000+00:00
+
 ---
+# Sherbime qe rriten me kerkesat e klienteve...
 
-# Services that grow with your travel needs
-
-We help our customers travel from point A to point Z, with as many checkpoints as required in the middle.
+Sherbime te specializuara per transportin publik.  Oficine e autorizuar nga IVECO BUS dhe e licensuar sipas ligjeve perkatese ne RSH. 
