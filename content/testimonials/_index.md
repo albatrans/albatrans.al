@@ -1,6 +1,6 @@
 ---
-title: 'Testimonials'
-date: 2018-02-12T15:37:57+07:00
----
+title: Sektoret
+date: 2018-02-12T08:37:57.000+00:00
 
-# Testimonials
+---
+# Sektorët
