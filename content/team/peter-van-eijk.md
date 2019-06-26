@@ -1,11 +1,11 @@
 ---
-title: Rixhin Qoshja
+title: Linja "Tufina"
 date: 2018-11-19T00:47:58.000+00:00
 image: ''
-jobtitle: Technical Service & Operations Department Manager
+jobtitle: ''
 email: rqoshja@albatrans.com.al
-linkedinurl: https://www.linkedin.com/in/rqoshja/
+linkedinurl: ''
 weight: "1"
 
 ---
-![](/uploads/Profile photo.png)
+[Linja 7.pdf](/uploads/Linja 7.pdf "Linja 7.pdf")
