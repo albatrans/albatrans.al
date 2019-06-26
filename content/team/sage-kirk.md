@@ -1,5 +1,5 @@
 ---
-title: "???? ????"
+title: Ish-Kombinati Autotraktoreve - Qender
 date: 2018-11-19T00:47:58.000+00:00
 image: team/sage-kirk-485982-unsplash.jpg
 jobtitle: Accountant
@@ -8,4 +8,4 @@ linkedinurl: ''
 weight: "2"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+[Linja 5A-2_opt.pdf](/uploads/Linja 5A-2_opt.pdf "Linja 5A-2_opt.pdf")
