@@ -11,7 +11,7 @@ name = "Informacion i pergjithshem"
 url = "/testimonials/"
 weight = 3
 [[menu.main]]
-name = "Team"
+name = "Harta "
 url = "/team/"
 weight = 2
 [[menu.main]]
